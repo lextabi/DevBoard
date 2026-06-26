@@ -1,0 +1,23 @@
+# DevBoard CODEOWNERS
+
+# Default ownership
+* @lextabi
+
+# Frontend code
+/frontend/ @lextabi
+
+# Backend code
+/backend/ @lextabi
+
+# Infrastructure and DevOps
+/docker-compose.yml @lextabi
+/.github/workflows/ @lextabi
+/Dockerfile* @lextabi
+
+# Documentation
+*.md @lextabi
+/docs/ @lextabi
+
+# Root configuration files
+/.gitignore @lextabi
+/LICENSE @lextabi

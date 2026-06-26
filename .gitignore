@@ -1,0 +1,112 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+.npm
+.yarn/cache
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Frontend
+frontend/dist/
+frontend/.eslintcache
+frontend/coverage/
+frontend/node_modules/
+
+# Backend
+backend/.pytest_cache/
+backend/.coverage
+backend/htmlcov/
+backend/site/
+backend/dist/
+backend/build/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+migrations/versions/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.vitest/
+
+# Build outputs
+dist/
+build/
+
+# Editor backup files
+*.bak
+*.backup
+*~
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Docker
+docker-compose.override.yml
+.docker/
+
+# Generated files
+*.generated.*
