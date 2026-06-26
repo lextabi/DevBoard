@@ -221,6 +221,25 @@ See individual setup guides:
 
 ---
 
+## 🧪 Testing & Approval Workflow
+
+This project follows a structured testing workflow for quality assurance:
+
+1. **Development**: Features implemented per phase requirements
+2. **Manual Testing**: You personally test all functionality
+3. **Approval**: Once satisfied, request proceed to next phase
+4. **Deployment**: Code deployed to production
+
+Each phase includes:
+- Unit/integration tests in CI/CD
+- Manual testing checklist
+- Approval gate before next phase
+- Documentation for testing procedures
+
+See [docs/TESTING.md](docs/TESTING.md) for detailed testing checklists and procedures.
+
+---
+
 ## Architecture
 
 DevBoard follows a **three-tier architecture**:

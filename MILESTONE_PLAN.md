@@ -20,6 +20,20 @@ This document outlines the detailed phase-by-phase milestone plan for MVP delive
 
 ---
 
+## Testing & Approval Workflow
+
+Each phase follows this workflow:
+
+1. **Development**: Features implemented and committed to GitHub
+2. **Notification**: Developer signals phase is ready for testing
+3. **Testing**: Project owner tests all functionality against checklist
+4. **Approval**: Owner approves when satisfied or requests fixes
+5. **Proceed**: Next phase begins upon approval
+
+See [docs/TESTING.md](docs/TESTING.md) for detailed testing checklists, procedures, and approval process.
+
+---
+
 ## Phase 0: Project Setup (Week 1)
 
 ### Objectives
